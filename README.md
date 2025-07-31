@@ -1,2 +1,2 @@
-# -Smart-Premium
+# Smart-Premium
 💰 Smart Premium: Insurance Premium Predictor
